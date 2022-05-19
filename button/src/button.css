@@ -1,7 +1,7 @@
 .btn {
-  background-color: var(--specify-button-primary-background);
+  background-color: var(--figma-button-primary-background);
   padding: 0.5rem 1.5rem;
-  color: var(--specify-button-primary-color);
+  color: var(--figma-button-primary-color);
   border: none;
   outline: none;
   cursor: pointer;
@@ -9,27 +9,27 @@
 }
 
 .btn:hover {
-  background-color: var(--specify-button-primary-hover-background);
+  background-color: var(--figma-button-primary-hover-background);
 }
 
 .btn:focus {
-  outline: 2px solid var(--specify-button-primary-focus-outline);
+  outline: 2px solid var(--figma-button-primary-focus-outline);
   outline-offset: 2px;
 }
 
 .btn:active {
-  box-shadow: inset 0 0 0px 2px var(--specify-button-primary-active-shadow);
+  box-shadow: inset 0 0 0px 2px var(--figma-button-primary-active-shadow);
 }
 
 .btn[outline] {
-  background-color: var(--specify-button-outline-background);
-  border: 1px solid var(--specify-button-outline-border-color);
+  background-color: var(--figma-button-outline-background);
+  border: 1px solid var(--figma-button-outline-border-color);
 }
 
 .btn[outline]:hover {
-  background-color: var(--specify-button-outline-hover-background);
+  background-color: var(--figma-button-outline-hover-background);
 }
 
 .btn[disabled] {
-  background-color: var(--specify-button-primary-disabled-background);
+  background-color: var(--figma-button-primary-disabled-background);
 }

@@ -16,7 +16,7 @@ Primary colors of our brand.
 ```js story
 export const primary = () => html`
   <dockit-css-showcases
-    css-props-prefix="--figma-colors"
+    css-props-prefix="--figma-core-colors-primary"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
@@ -30,7 +30,7 @@ Secondary colors of our brand.
 ```js story
 export const secondary = () => html`
   <dockit-css-showcases
-    css-props-prefix="--figma-tokens-core-colors-grey"
+    css-props-prefix="--figma-core-colors-grey"
     component-class="box"
     style-key="background-color"
   ></dockit-css-showcases>
