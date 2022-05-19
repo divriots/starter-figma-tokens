@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/divriots.blank-l3ctg7tf",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve cKyQDXe8ZMFwcmJsOYD9 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
