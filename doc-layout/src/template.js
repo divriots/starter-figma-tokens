@@ -1,5 +1,6 @@
 import '@divriots/dockit-core/layout/dockit-layout.define.js';
 import { styles } from '@divriots/dockit-core/layout';
+import '~/tokens/variables.css';
 import { html } from 'lit';
 import { unsafeHTML } from 'lit/directives/unsafe-html.js';
 import logoSvg from './logo.svg?raw';

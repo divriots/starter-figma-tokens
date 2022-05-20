@@ -2,11 +2,13 @@
 
 This starter kit is for users that want to use [Figma Tokens Plugin](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) in [Figma](https://www.figma.com/) as a starting point to build their Design System.
 This kit shows an automated workflow, where your design tokens source of truth is in the Figma Tokens Plugin.
-Whenever you update the tokens and push to GitHub, the coded components inside Backlight will automatically update, in a Pull Request!
+Whenever you update the tokens and push to GitHub, the coded components inside Backlight will automatically update, in a pull request!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YEbDt-ydmfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Video coming soon
 
-Full documentation about setting up this workflow can be found in our [Figma Tokens Docs](https://backlight.dev/docs/figma-tokens), you will need this if you duplicate this starter kit in order to set up the integrations.
+<iframe width="560" height="315" src="" title="Figma Tokens Plugin video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Full documentation about setting up this workflow can be found in our [Figma Tokens Docs](https://backlight.dev/docs/figma-tokens) soon.
 
 If you are starting with [Backlight](https://backlight.dev), check the links below:
 
@@ -17,9 +19,9 @@ If you are starting with [Backlight](https://backlight.dev), check the links bel
 ## Workflow Summary
 
 - Designer changes some tokens in Figma Tokens Plugin and pushes the changes to GitHub.
-- A Pull Request is created automatically in GitHub
-- Style-Dictionary is ran and results are added to this PR automatically
-- A Backlight Preview link will appear in the PR
+- A pull request is created automatically in GitHub through GitHub Actions
+- Style-Dictionary is ran and results are added to this PR automatically through GitHub Actions
+- A Backlight preview link will appear in the PR
 - Designers (& optionally developers) can see visual changes and review + approve
 - Changes are merged into main
 
