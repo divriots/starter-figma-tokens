@@ -4,9 +4,7 @@ This starter kit is for users that want to use [Figma Tokens Plugin](https://www
 This kit shows an automated workflow, where your design tokens source of truth is in the Figma Tokens Plugin.
 Whenever you update the tokens and push to GitHub, the coded components inside Backlight will automatically update, in a pull request!
 
-> Video coming soon
-
-<iframe width="560" height="315" src="" title="Figma Tokens Plugin video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MKg1CGxtl3s" title="YouTube Figma Tokens teaser video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Full documentation about setting up this workflow can be found in our [Figma Tokens Docs](https://backlight.dev/docs/figma-tokens) soon.
 
