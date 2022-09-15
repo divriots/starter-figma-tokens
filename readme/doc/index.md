@@ -6,7 +6,7 @@ Whenever you update the tokens and push to GitHub, the coded components inside B
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKg1CGxtl3s" title="YouTube Figma Tokens teaser video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Full documentation about setting up this workflow can be found in our [Figma Tokens Docs](https://backlight.dev/docs/figma-tokens) soon.
+Full documentation about setting up this workflow can be found in our [Figma Tokens Docs](https://backlight.dev/docs/figma-tokens).
 
 If you are starting with [Backlight](https://backlight.dev), check the links below:
 
